@@ -1,0 +1,597 @@
+.sec2-sec2 {
+  width: 1542px;
+  height: 430px;
+  display: flex;
+  z-index: 100;
+  position: relative;
+  flex-wrap: wrap;
+  align-items: center;
+  border-radius: 60px;
+  justify-content: center;
+  background-color: #141212;
+}
+.sec2-skills {
+  top: 36px;
+  left: 0px;
+  color: rgb(255, 255, 255);
+  right: 0px;
+  margin: auto;
+  position: absolute;
+  font-size: 40px;
+  text-align: center;
+  font-family: Oxygen;
+}
+.sec2-skillcontent {
+  top: 87px;
+  left: 0px;
+  right: 0px;
+  width: 1233px;
+  height: 78px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: center;
+  align-items: flex-start;
+  justify-content: center;
+}
+.sec2-text {
+  top: 4px;
+  left: -22px;
+  color: var(--dl-color-gray-700);
+  position: absolute;
+  font-size: 22px;
+  text-align: center;
+}
+.sec2-skills1 {
+  top: 164px;
+  flex: 0 0 auto;
+  left: 0px;
+  right: 0px;
+  width: 1536px;
+  height: 256px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-start;
+}
+.sec2-skillnames {
+  top: 34px;
+  left: 77px;
+  width: 1303.0568084716797px;
+  height: 38.5px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: center;
+}
+.sec2-react {
+  top: -4px;
+  color: rgb(255, 255, 255);
+  right: -29px;
+  position: absolute;
+  font-size: 30px;
+}
+.sec2-js {
+  top: -2px;
+  left: 880px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 30px;
+}
+.sec2-css {
+  top: 1px;
+  left: 363px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 30px;
+}
+.sec2-wb {
+  top: 1px;
+  left: -31px;
+  color: #ffffff;
+  position: absolute;
+  font-size: 30px;
+}
+.sec2-percentages {
+  top: 84px;
+  left: 0px;
+  right: 0px;
+  width: 1431.9999694824219px;
+  height: 164px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.sec2-image {
+  top: -1px;
+  right: 22px;
+  width: 209px;
+  height: 159px;
+  position: absolute;
+  object-fit: cover;
+}
+.sec2-image1 {
+  top: 4px;
+  left: 435.0000305175781px;
+  width: 209px;
+  height: 159px;
+  position: absolute;
+  object-fit: cover;
+}
+.sec2-image2 {
+  top: 5px;
+  right: 379px;
+  width: 209px;
+  height: 159px;
+  position: absolute;
+  object-fit: cover;
+}
+.sec2-image3 {
+  top: 0px;
+  left: 0px;
+  width: 209px;
+  height: 159px;
+  position: absolute;
+  object-fit: cover;
+}
+.sec2-root-class-name {
+  top: 751px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+@media(max-width: 1600px) {
+  .sec2-sec2 {
+    top: 584px;
+    left: 0px;
+    right: 0px;
+    width: 1150px;
+    margin: auto;
+    justify-content: center;
+  }
+  .sec2-skills {
+    font-size: 34px;
+  }
+  .sec2-skillcontent {
+    width: 1130px;
+  }
+  .sec2-text {
+    top: 8px;
+    right: -7px;
+    font-size: 18px;
+  }
+  .sec2-skills1 {
+    width: 1194px;
+  }
+  .sec2-skillnames {
+    top: 23px;
+    left: 13px;
+    width: 100%;
+  }
+  .sec2-react {
+    top: -5px;
+    right: 155px;
+    font-size: 23px;
+  }
+  .sec2-js {
+    top: -2px;
+    left: 709px;
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+  }
+  .sec2-css {
+    top: 2px;
+    left: 339px;
+    font-size: 23px;
+  }
+  .sec2-wb {
+    top: 3px;
+    left: 50px;
+    font-size: 23px;
+  }
+  .sec2-percentages {
+    width: 1188px;
+    align-items: flex-start;
+  }
+  .sec2-image {
+    top: 0px;
+    right: 61px;
+  }
+  .sec2-image1 {
+    top: 0px;
+    left: 369px;
+  }
+  .sec2-image2 {
+    top: 0px;
+    left: 668px;
+  }
+  .sec2-image3 {
+    top: 0px;
+    left: 53px;
+  }
+}
+@media(max-width: 1200px) {
+  .sec2-sec2 {
+    top: 469px;
+    left: 0px;
+    right: 0px;
+    width: 970px;
+    height: 370px;
+    margin: auto;
+  }
+  .sec2-skills {
+    font-size: 29px;
+  }
+  .sec2-skillcontent {
+    left: 0px;
+    right: 0px;
+    width: 909px;
+    height: 32px;
+    margin: auto;
+  }
+  .sec2-text {
+    top: -6px;
+    right: -2px;
+  }
+  .sec2-skills1 {
+    right: 4px;
+    width: 961px;
+    bottom: -37px;
+    height: 266px;
+  }
+  .sec2-react {
+    top: -5px;
+    left: 838px;
+    font-size: 20px;
+  }
+  .sec2-js {
+    top: -10px;
+    left: 589px;
+    font-size: 20px;
+  }
+  .sec2-css {
+    top: -6px;
+    left: 276px;
+    font-size: 20px;
+  }
+  .sec2-wb {
+    top: -4px;
+    left: 33px;
+    font-size: 20px;
+  }
+  .sec2-percentages {
+    top: 46px;
+    left: -7px;
+    width: 100%;
+    justify-content: center;
+  }
+  .sec2-image {
+    top: 0px;
+    left: 773px;
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+  }
+  .sec2-image1 {
+    top: 0px;
+    left: var(--dl-space-space-halfunit);
+    right: 150px;
+    bottom: 0px;
+    margin: auto;
+  }
+  .sec2-image2 {
+    top: 0px;
+    left: 360px;
+    right: var(--dl-space-space-halfunit);
+    bottom: 0px;
+    margin: auto;
+    position: absolute;
+  }
+  .sec2-image3 {
+    top: 0px;
+    left: 12px;
+    bottom: 0px;
+    margin: auto;
+  }
+}
+@media(max-width: 991px) {
+  .sec2-sec2 {
+    top: 372px;
+    left: 0px;
+    right: 0px;
+    width: 799px;
+    height: 340px;
+    margin: auto;
+  }
+  .sec2-skills {
+    top: var(--dl-space-space-twounits);
+    left: 1px;
+    font-size: 27px;
+  }
+  .sec2-skillcontent {
+    width: 760px;
+    height: 24px;
+  }
+  .sec2-text {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    font-size: 16px;
+  }
+  .sec2-skills1 {
+    left: 0px;
+    right: var(--dl-space-space-fourunits);
+    width: 789px;
+    bottom: 2px;
+    height: 235px;
+  }
+  .sec2-skillnames {
+    left: 0px;
+  }
+  .sec2-react {
+    top: 0px;
+    left: 680px;
+    right: 52px;
+    bottom: 0px;
+    margin: auto;
+    font-size: 18px;
+  }
+  .sec2-js {
+    top: 0px;
+    left: 490px;
+    bottom: 0px;
+    margin: auto;
+    font-size: 18px;
+  }
+  .sec2-css {
+    top: 0px;
+    left: 234px;
+    bottom: 0px;
+    margin: auto;
+    font-size: 18px;
+  }
+  .sec2-wb {
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+    font-size: 18px;
+  }
+  .sec2-image {
+    top: 0px;
+    left: 620px;
+    width: 180px;
+    bottom: 0px;
+    margin: auto;
+  }
+  .sec2-image1 {
+    top: 0px;
+    right: 150px;
+    width: 180px;
+    bottom: 0px;
+    margin: auto;
+  }
+  .sec2-image2 {
+    left: 290px;
+    width: 180px;
+  }
+  .sec2-image3 {
+    top: 0px;
+    left: 6px;
+    width: 180px;
+    bottom: 0px;
+    height: 140px;
+    margin: auto;
+  }
+}
+@media(max-width: 767px) {
+  .sec2-sec2 {
+    top: 220px;
+    left: 0px;
+    right: 0px;
+    width: 470px;
+    height: 200px;
+    margin: auto;
+  }
+  .sec2-skills {
+    top: 26px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    font-size: 13px;
+  }
+  .sec2-skillcontent {
+    top: 43px;
+    right: -1px;
+    width: 100%;
+    height: var(--dl-size-size-small);
+  }
+  .sec2-text {
+    top: 6px;
+    left: 0px;
+    right: 0px;
+    width: 100%;
+    margin: auto;
+    font-size: 9px;
+  }
+  .sec2-skills1 {
+    top: 100px;
+    left: -1px;
+    width: 458px;
+    bottom: 9px;
+    height: 99px;
+  }
+  .sec2-skillnames {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 101px;
+    margin: auto;
+  }
+  .sec2-react {
+    top: 0px;
+    left: 400px;
+    right: 221px;
+    height: var(--dl-size-size-xsmall);
+    position: absolute;
+    font-size: 10px;
+  }
+  .sec2-js {
+    top: 0px;
+    left: 295px;
+    width: auto;
+    height: auto;
+    position: absolute;
+    font-size: 10px;
+  }
+  .sec2-css {
+    top: -2px;
+    left: 150px;
+    font-size: 10px;
+  }
+  .sec2-wb {
+    top: 0px;
+    font-size: 10px;
+  }
+  .sec2-percentages {
+    top: -27px;
+    right: -11px;
+    height: 112px;
+  }
+  .sec2-image {
+    top: 47px;
+    left: 370px;
+    right: 0px;
+    width: 90px;
+    height: 70px;
+    position: absolute;
+  }
+  .sec2-image1 {
+    top: 45px;
+    left: 70px;
+    width: 90px;
+    height: 70px;
+    position: absolute;
+  }
+  .sec2-image2 {
+    top: 48px;
+    left: 175px;
+    right: 0px;
+    width: 90px;
+    height: 70px;
+    position: absolute;
+  }
+  .sec2-image3 {
+    top: 45px;
+    left: 24px;
+    width: 90px;
+    height: 70px;
+  }
+}
+@media(max-width: 479px) {
+  .sec2-sec2 {
+    top: 145px;
+    left: 0px;
+    right: 0px;
+    width: 300px;
+    height: 100px;
+    margin: auto;
+    border-radius: 15px;
+  }
+  .sec2-skills {
+    top: 8px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    font-size: 9px;
+  }
+  .sec2-skillcontent {
+    top: 17px;
+    right: 0px;
+  }
+  .sec2-text {
+    font-size: 5.5px;
+  }
+  .sec2-skills1 {
+    top: 29px;
+    left: -8px;
+    width: 100%;
+    bottom: 0px;
+    height: 37px;
+    margin: auto;
+    position: absolute;
+  }
+  .sec2-skillnames {
+    height: 56px;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .sec2-react {
+    top: 0px;
+    left: 264px;
+    bottom: 40px;
+    position: absolute;
+    font-size: 7px;
+  }
+  .sec2-js {
+    top: 0px;
+    left: 197px;
+    right: 0px;
+    margin: auto;
+    font-size: 7px;
+  }
+  .sec2-css {
+    top: 0px;
+    left: 100px;
+    font-size: 7px;
+  }
+  .sec2-wb {
+    left: 22px;
+    font-size: 7px;
+  }
+  .sec2-percentages {
+    top: -7px;
+    right: -5px;
+    height: 77px;
+    margin: auto;
+    align-items: center;
+  }
+  .sec2-image {
+    top: 0px;
+    left: 248px;
+    width: var(--dl-size-size-small);
+    bottom: 0px;
+    height: var(--dl-size-size-small);
+    margin: auto;
+    position: absolute;
+  }
+  .sec2-image1 {
+    top: 0px;
+    left: 113px;
+    width: var(--dl-size-size-small);
+    bottom: 0px;
+    height: var(--dl-size-size-small);
+    margin: auto;
+  }
+  .sec2-image2 {
+    top: 0px;
+    left: 126px;
+    width: var(--dl-size-size-small);
+    bottom: 0px;
+    height: var(--dl-size-size-small);
+    margin: auto;
+  }
+  .sec2-image3 {
+    top: 0px;
+    left: 24px;
+    width: var(--dl-size-size-small);
+    bottom: 0px;
+    height: var(--dl-size-size-small);
+    margin: auto;
+  }
+}

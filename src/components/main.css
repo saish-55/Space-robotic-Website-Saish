@@ -1,0 +1,820 @@
+.main-main {
+  flex: 0 0 auto;
+  width: 1607px;
+  height: 776px;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  align-self: flex-start;
+  align-items: flex-end;
+  border-radius: var(--dl-radius-radius-radius8);
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/playground_assets/space-800h.jpg");
+}
+.main-navbar {
+  top: 36px;
+  flex: 0 0 auto;
+  left: 28px;
+  width: 0px;
+  height: var(--dl-size-size-medium);
+  display: flex;
+  z-index: 100;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: center;
+}
+.main-logo {
+  top: -59px;
+  left: -15px;
+  width: 258px;
+  height: 209px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.main-navcontents {
+  top: 0px;
+  right: -1529px;
+  width: 681px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: center;
+}
+.main-options {
+  top: 9px;
+  left: 0px;
+  width: 347.6931838989258px;
+  height: 34.5px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.main-projects {
+  top: 0px;
+  color: var(--dl-color-gray-700);
+  right: 0px;
+  position: absolute;
+  font-size: 27px;
+  transition: 0.3s;
+  text-transform: capitalize;
+}
+.main-projects:hover {
+  color: var(--dl-color-gray-white);
+}
+.main-skills {
+  top: 0px;
+  left: 133px;
+  color: var(--dl-color-gray-700);
+  position: absolute;
+  font-size: 29px;
+  transition: 0.3s;
+  text-transform: capitalize;
+}
+.main-skills:hover {
+  color: var(--dl-color-gray-white);
+}
+.main-home {
+  top: 0px;
+  left: 0px;
+  color: #ded5d5;
+  position: absolute;
+  font-size: 30px;
+  transition: 0.3s;
+  text-transform: capitalize;
+}
+.main-home:hover {
+  color: var(--dl-color-gray-white);
+}
+.main-nav-icons {
+  top: 9px;
+  right: 166px;
+  width: 119px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  justify-content: space-between;
+}
+.main-instagram {
+  top: -1px;
+  left: 45px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-700);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #000000;
+}
+.main-icon {
+  top: 1px;
+  fill: #D9D9D9;
+  left: 1px;
+  width: 24px;
+  height: 24px;
+  margin: auto;
+  position: absolute;
+}
+.main-linkedin {
+  top: 0px;
+  right: 0px;
+  width: 27px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-700);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: flex-end;
+  background-color: #101010;
+}
+.main-icon2 {
+  top: 0px;
+  fill: #D9D9D9;
+  left: 0px;
+  right: 0px;
+  width: 24px;
+  height: 24px;
+  margin: auto;
+  position: absolute;
+}
+.main-facebook {
+  top: 0px;
+  left: 0px;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-700);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #000000;
+}
+.main-icon4 {
+  fill: #D9D9D9;
+  right: 0px;
+  width: 24px;
+  bottom: -1px;
+  height: 24px;
+  margin: auto;
+  position: absolute;
+}
+.main-welcome {
+  top: 305px;
+  left: 139px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 35px;
+  padding-top: var(--dl-space-space-halfunit);
+  border-color: #ffffff;
+  border-width: 1px;
+  padding-left: var(--dl-space-space-halfunit);
+  border-radius: var(--dl-radius-radius-radius4);
+  padding-right: var(--dl-space-space-halfunit);
+  padding-bottom: var(--dl-space-space-halfunit);
+  background-image: linear-gradient(90deg, rgb(135, 26, 185) 1%, rgb(7, 93, 178) 100%);
+}
+.main-h-i-iam-saish {
+  top: 387px;
+  left: 139px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 55px;
+}
+.main-container {
+  top: 473px;
+  left: 139px;
+  width: 901px;
+  height: 138px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: flex-start;
+}
+.main-text {
+  top: 0px;
+  left: 0px;
+  color: var(--dl-color-gray-700);
+  position: absolute;
+  font-size: 25px;
+}
+.main-robot {
+  top: 119px;
+  right: 26px;
+  width: 500px;
+  height: 628px;
+  position: absolute;
+}
+.main-lets-connect {
+  top: 666px;
+  left: 103px;
+  width: 248px;
+  height: 38px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: center;
+}
+.main-arrow {
+  top: 3px;
+  fill: #c7b7b7;
+  right: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  transition: 0.3s;
+}
+.main-arrow:hover {
+  color: var(--dl-color-gray-white);
+}
+.main-lets-connect1 {
+  top: 0px;
+  left: 0px;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  font-size: 30px;
+  align-self: flex-end;
+  font-style: normal;
+  font-weight: 700;
+}
+.main-container1 {
+  top: 0px;
+  left: -32px;
+  width: 0px;
+  height: 0px;
+  display: flex;
+  position: absolute;
+  align-items: flex-end;
+  justify-content: center;
+}
+.main-root-class-name {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+@media(max-width: 1600px) {
+  .main-main {
+    width: 1244px;
+    height: 614px;
+    border-radius: var(--dl-radius-radius-radius8);
+    justify-content: center;
+  }
+  .main-navbar {
+    top: 39px;
+    left: 29px;
+    align-items: flex-start;
+  }
+  .main-logo {
+    top: -71px;
+    left: -50px;
+    width: 230px;
+    height: 180px;
+  }
+  .main-navcontents {
+    top: -4px;
+    left: 501px;
+  }
+  .main-options {
+    top: -1px;
+    left: 56px;
+    width: 295px;
+    height: 28px;
+    align-items: flex-start;
+  }
+  .main-projects {
+    font-size: 23px;
+  }
+  .main-skills {
+    top: 0px;
+    left: 115px;
+    font-size: 23px;
+  }
+  .main-home {
+    font-size: 25px;
+  }
+  .main-nav-icons {
+    top: 0px;
+    left: 394px;
+  }
+  .main-welcome {
+    top: 243px;
+    left: 107px;
+    font-size: 25px;
+  }
+  .main-h-i-iam-saish {
+    top: 308px;
+    left: 107px;
+    font-size: 45px;
+  }
+  .main-container {
+    left: 103px;
+    width: 744px;
+    bottom: 114px;
+    position: absolute;
+  }
+  .main-text {
+    top: -91px;
+    left: 0px;
+    font-size: 20px;
+  }
+  .main-robot {
+    top: 94px;
+    right: 119px;
+    width: 339px;
+    height: 434px;
+    display: none;
+  }
+  .main-lets-connect {
+    top: 520px;
+    left: 80px;
+    bottom: 60px;
+  }
+  .main-arrow {
+    top: -1px;
+    right: 41px;
+    width: 30px;
+    height: 30px;
+  }
+  .main-lets-connect1 {
+    font-size: 25px;
+  }
+  .main-container1 {
+    top: 30px;
+    left: 640px;
+  }
+  .main-html-node {
+    top: 235px;
+    right: -537px;
+    width: 246px;
+    height: 277px;
+    position: absolute;
+  }
+}
+@media(max-width: 1200px) {
+  .main-main {
+    left: 0px;
+    right: 0px;
+    width: 995px;
+    height: 499px;
+    margin: auto;
+  }
+  .main-logo {
+    top: -61px;
+    left: -50px;
+    width: 190px;
+    height: 150px;
+  }
+  .main-navcontents {
+    top: -10px;
+    left: 302px;
+  }
+  .main-options {
+    top: -3px;
+    left: 139px;
+    width: 242px;
+    height: 25px;
+    position: absolute;
+  }
+  .main-projects {
+    font-size: 20px;
+  }
+  .main-skills {
+    top: 0px;
+    left: 78px;
+    right: var(--dl-space-space-sixunits);
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+  }
+  .main-home {
+    font-size: 20px;
+  }
+  .main-nav-icons {
+    top: -6px;
+    left: 421px;
+  }
+  .main-welcome {
+    top: 186px;
+    left: 89px;
+    font-size: 20px;
+  }
+  .main-h-i-iam-saish {
+    top: 236px;
+    left: 88px;
+    font-size: 37px;
+  }
+  .main-container {
+    left: 100px;
+    width: 579px;
+    bottom: -130px;
+  }
+  .main-text {
+    top: -192px;
+    left: -9px;
+    margin: auto;
+    font-size: 16px;
+  }
+  .main-lets-connect {
+    top: 389px;
+    left: 61px;
+    position: absolute;
+  }
+  .main-html-node {
+    top: -94px;
+    left: -93px;
+    width: 415px;
+    height: 531px;
+  }
+}
+@media(max-width: 991px) {
+  .main-main {
+    left: 0px;
+    right: 0px;
+    width: 784px;
+    height: 388px;
+    margin: auto;
+  }
+  .main-logo {
+    top: -51px;
+    left: -43px;
+    width: 140px;
+    height: 100px;
+  }
+  .main-navcontents {
+    top: -25px;
+    left: 76px;
+    width: 692px;
+    height: 54px;
+  }
+  .main-options {
+    top: 0px;
+    left: 228px;
+    width: 211px;
+    height: 24px;
+  }
+  .main-skills {
+    left: 70px;
+  }
+  .main-nav-icons {
+    top: 0px;
+    left: 452px;
+    width: 98px;
+    height: 28px;
+  }
+  .main-instagram {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .main-icon {
+    left: 0px;
+    position: static;
+  }
+  .main-linkedin {
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+  }
+  .main-facebook {
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+  }
+  .main-welcome {
+    top: 144px;
+    left: 76px;
+    font-size: 15px;
+  }
+  .main-h-i-iam-saish {
+    top: 184px;
+    left: 76px;
+    font-size: 30px;
+  }
+  .main-container {
+    top: 185px;
+    left: 13px;
+  }
+  .main-text {
+    top: -252px;
+    left: -23px;
+    width: 450px;
+    position: static;
+    font-size: 14px;
+  }
+  .main-robot {
+    display: none;
+  }
+  .main-lets-connect {
+    top: 303px;
+    left: 44px;
+    bottom: 17px;
+  }
+  .main-arrow {
+    top: -1px;
+    right: 70px;
+    position: absolute;
+  }
+  .main-lets-connect1 {
+    font-size: 21px;
+  }
+  .main-html-node {
+    top: -163px;
+    left: -226px;
+    display: none;
+  }
+}
+@media(max-width: 767px) {
+  .main-main {
+    left: 0px;
+    right: 0px;
+    width: 486px;
+    height: 240px;
+    margin: auto;
+    margin-bottom: auto;
+  }
+  .main-logo {
+    top: -49px;
+    left: -31px;
+    width: 83px;
+    height: 66px;
+  }
+  .main-navcontents {
+    top: -26px;
+    left: 58px;
+    width: 409px;
+    height: 59px;
+    margin-left: 0px;
+  }
+  .main-options {
+    top: 0px;
+    left: 124px;
+    width: 122px;
+    height: 10px;
+  }
+  .main-projects {
+    font-size: 10px;
+  }
+  .main-skills {
+    top: 0px;
+    left: 44px;
+    margin: auto;
+    font-size: 10px;
+  }
+  .main-home {
+    font-size: 10px;
+  }
+  .main-nav-icons {
+    top: 0px;
+    left: 259px;
+    width: 67px;
+    height: 11px;
+    position: absolute;
+    align-items: flex-start;
+    justify-content: space-between;
+  }
+  .main-instagram {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 14px;
+    bottom: 0px;
+    height: 14px;
+    margin: auto;
+  }
+  .main-icon {
+    top: 1px;
+    left: 1px;
+    right: 1px;
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    align-self: center;
+  }
+  .main-linkedin {
+    top: 0px;
+    right: 0px;
+    width: 14px;
+    bottom: 0px;
+    height: 14px;
+    margin: auto;
+  }
+  .main-icon2 {
+    left: 0px;
+    right: 0px;
+    width: 11px;
+    height: 11px;
+    margin: auto;
+  }
+  .main-facebook {
+    top: 0px;
+    left: 0px;
+    width: 15px;
+    bottom: 0px;
+    height: 14px;
+    margin: auto;
+  }
+  .main-icon4 {
+    top: 2px;
+    left: 1px;
+    width: 10px;
+    height: 12px;
+    position: static;
+    align-self: center;
+  }
+  .main-welcome {
+    top: 87px;
+    left: 53px;
+    padding: 2px;
+    font-size: 10px;
+  }
+  .main-h-i-iam-saish {
+    top: 110px;
+    left: 53px;
+    font-size: 17px;
+  }
+  .main-container {
+    top: 115px;
+    left: 53px;
+    width: 292px;
+    height: 55px;
+    position: absolute;
+  }
+  .main-text {
+    top: 22px;
+    left: 19px;
+    right: -27px;
+    width: 300px;
+    height: var(--dl-size-size-xsmall);
+    margin: auto;
+    font-size: 9px;
+  }
+  .main-robot {
+    width: 36px;
+    height: 573px;
+    display: none;
+  }
+  .main-lets-connect {
+    top: 195px;
+    left: 40px;
+    width: 102px;
+    bottom: 44px;
+    height: 17px;
+    justify-content: space-between;
+  }
+  .main-arrow {
+    left: 84px;
+    width: 16px;
+    height: 16px;
+  }
+  .main-lets-connect1 {
+    font-size: 12px;
+  }
+}
+@media(max-width: 479px) {
+  .main-main {
+    left: 0px;
+    right: 0px;
+    width: 314px;
+    height: 158px;
+    margin: auto;
+  }
+  .main-logo {
+    top: -48px;
+    left: -35px;
+    width: 50px;
+    height: 50px;
+  }
+  .main-navcontents {
+    top: -37px;
+    left: 113px;
+    width: 167px;
+    height: 23px;
+  }
+  .main-options {
+    top: 8px;
+    left: 0px;
+    width: 77px;
+    height: 6px;
+  }
+  .main-projects {
+    font-size: 6px;
+  }
+  .main-skills {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: var(--dl-size-size-xsmall);
+    margin: auto;
+    font-size: 6px;
+  }
+  .main-home {
+    font-size: 6px;
+  }
+  .main-nav-icons {
+    top: 7px;
+    left: var(--dl-space-space-twounits);
+    right: 0px;
+    width: 35px;
+    height: 8px;
+    margin: auto;
+  }
+  .main-instagram {
+    top: 0px;
+    width: 10px;
+    height: 9px;
+  }
+  .main-icon {
+    top: 1px;
+    left: 1px;
+    right: 1px;
+    width: 6px;
+    bottom: 1px;
+    height: 6px;
+    position: absolute;
+  }
+  .main-linkedin {
+    top: 0px;
+    width: 9px;
+    height: 9px;
+  }
+  .main-icon2 {
+    left: 0px;
+    right: 0px;
+    width: 6px;
+    height: 6px;
+    position: static;
+  }
+  .main-facebook {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 9px;
+    position: absolute;
+  }
+  .main-icon4 {
+    width: 5px;
+    height: 7px;
+  }
+  .main-welcome {
+    top: 66px;
+    left: 30px;
+    font-size: 6px;
+    padding-top: 2px;
+    border-style: inset;
+    padding-left: 1px;
+    padding-right: 1px;
+    padding-bottom: 1px;
+  }
+  .main-h-i-iam-saish {
+    top: 82px;
+    left: 30px;
+    font-size: 10px;
+  }
+  .main-container {
+    top: 90px;
+    left: 31px;
+    width: 191px;
+    bottom: 38px;
+    height: 28px;
+  }
+  .main-text {
+    position: static;
+    font-size: 5px;
+  }
+  .main-lets-connect {
+    top: 125px;
+    left: 20px;
+    width: 56px;
+    bottom: 23px;
+    height: 10px;
+  }
+  .main-arrow {
+    top: 1px;
+    left: 40px;
+    right: 0px;
+    width: 8px;
+    bottom: 0px;
+    height: 8px;
+    margin: auto;
+    position: absolute;
+  }
+  .main-lets-connect1 {
+    top: 0px;
+    bottom: 0px;
+    height: 5px;
+    margin: auto;
+    font-size: 6px;
+  }
+}

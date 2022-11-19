@@ -1,0 +1,257 @@
+.footer-footer {
+  width: 1548px;
+  height: 219px;
+  display: flex;
+  position: relative;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: center;
+}
+.footer-logo {
+  top: 11px;
+  left: -49px;
+  width: 281px;
+  height: 242px;
+  margin: auto;
+  position: absolute;
+  object-fit: cover;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.footer-footericons {
+  top: 108px;
+  right: 16px;
+  width: 119px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  justify-content: center;
+}
+.footer-instagram {
+  top: -1px;
+  left: 45px;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-700);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #000000;
+}
+.footer-icon {
+  top: 1px;
+  fill: #D9D9D9;
+  left: 1px;
+  width: 24px;
+  height: 24px;
+  margin: auto;
+  position: absolute;
+}
+.footer-linkedin {
+  top: 0px;
+  right: 0px;
+  width: 27px;
+  height: 27px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-700);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: flex-end;
+  background-color: #101010;
+}
+.footer-icon2 {
+  top: 0px;
+  fill: #D9D9D9;
+  left: 0px;
+  right: 0px;
+  width: 24px;
+  height: 24px;
+  margin: auto;
+  position: absolute;
+}
+.footer-facebook {
+  top: 0px;
+  left: 0px;
+  width: 26px;
+  height: 26px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  border-color: var(--dl-color-gray-700);
+  border-width: 1px;
+  border-radius: var(--dl-radius-radius-radius8);
+  justify-content: center;
+  background-color: #000000;
+}
+.footer-icon4 {
+  fill: #D9D9D9;
+  right: 0px;
+  width: 24px;
+  bottom: -1px;
+  height: 24px;
+  margin: auto;
+  position: absolute;
+}
+.footer-copyright {
+  top: 147px;
+  color: #ffffff;
+  right: 16px;
+  position: absolute;
+}
+.footer-root-class-name {
+  top: 2648px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  position: absolute;
+}
+@media(max-width: 1600px) {
+  .footer-footer {
+    top: 1900px;
+    left: 0px;
+    right: 0px;
+    width: 1171px;
+    bottom: 13px;
+    margin: auto;
+    position: absolute;
+    padding-top: 55px;
+  }
+  .footer-logo {
+    left: -52px;
+    width: 230px;
+    bottom: 2px;
+    height: 180px;
+  }
+}
+@media(max-width: 1200px) {
+  .footer-footer {
+    top: 1550px;
+    width: 1022px;
+    padding-top: 0px;
+  }
+  .footer-logo {
+    left: 6px;
+    width: 96px;
+    bottom: -7px;
+  }
+}
+@media(max-width: 991px) {
+  .footer-footer {
+    top: 1370px;
+    left: 14px;
+    width: 764px;
+    bottom: -32px;
+  }
+  .footer-logo {
+    top: var(--dl-space-space-threeunits);
+    left: 0px;
+  }
+}
+@media(max-width: 767px) {
+  .footer-footer {
+    top: 900px;
+    left: 0px;
+    right: 0px;
+    width: 498px;
+    bottom: 58px;
+    height: 140px;
+    margin: auto;
+    position: absolute;
+  }
+  .footer-logo {
+    top: var(--dl-space-space-threeunits);
+    left: 4px;
+    width: 83px;
+    bottom: -2px;
+    height: var(--dl-size-size-medium);
+  }
+  .footer-footericons {
+    top: 70px;
+    right: var(--dl-space-space-halfunit);
+    bottom: 34px;
+  }
+  .footer-copyright {
+    top: 110px;
+    right: var(--dl-space-space-halfunit);
+    position: absolute;
+    font-size: 10px;
+  }
+}
+@media(max-width: 479px) {
+  .footer-footer {
+    top: 640px;
+    left: 0px;
+    right: 0px;
+    width: 308px;
+    margin: auto;
+  }
+  .footer-logo {
+    top: var(--dl-space-space-oneandhalfunits);
+    left: 7px;
+    width: 30px;
+    height: 60px;
+    position: absolute;
+  }
+  .footer-footericons {
+    top: 72px;
+    right: 6px;
+    width: 37px;
+    height: 9px;
+    position: absolute;
+  }
+  .footer-instagram {
+    top: 0px;
+    left: 27px;
+    right: 0px;
+    width: 10px;
+    height: 9px;
+    justify-content: center;
+  }
+  .footer-icon {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 6px;
+    bottom: 0px;
+    height: 6px;
+    margin: auto;
+  }
+  .footer-linkedin {
+    left: 0px;
+    right: 0px;
+    width: 9px;
+    height: 9px;
+    margin: auto;
+  }
+  .footer-icon2 {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    width: 6px;
+    bottom: 0px;
+    height: 6px;
+    margin: auto;
+  }
+  .footer-facebook {
+    top: 0px;
+    left: 0px;
+    width: 10px;
+    height: 9px;
+  }
+  .footer-icon4 {
+    left: 0px;
+    right: 0px;
+    width: 5px;
+    height: 7px;
+    margin: auto;
+  }
+  .footer-copyright {
+    top: 85px;
+    right: 4px;
+    font-size: 6px;
+  }
+}
